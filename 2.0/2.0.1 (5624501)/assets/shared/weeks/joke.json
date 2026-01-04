@@ -1,0 +1,45 @@
+{
+	"storyName": "Joke",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"plugins",
+			"guy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Cords Ripoff",
+			"guy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Twosome",
+			"twosome",
+			[
+				255,
+				255,
+				255
+			]
+		]
+    ],
+	"weekName": "Joke",
+	"hiddenUntilUnlocked": false
+}
